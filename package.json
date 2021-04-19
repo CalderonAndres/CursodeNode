@@ -1,0 +1,15 @@
+{
+  "name": "6-basesproyecto",
+  "version": "0.0.1",
+  "description": "Simple multiplicación en tablas con archivos de texto",
+  "main": "3_Comando1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
